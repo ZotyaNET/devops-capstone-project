@@ -29,3 +29,4 @@ codecov==2.1.12
 httpie==3.2.1
 
 Flask-Talisman==1.0.0
+Flask-Cors==1.10.3
